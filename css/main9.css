@@ -1,0 +1,106 @@
+.body{
+    background-color: #c8e9f0;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+    margin: 0;
+    padding: 15px;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 24px 10px;
+
+}
+.navbar-item a{
+    color: black;
+    text-decoration: none;
+}
+.navbar-menu:before{
+    content: '';
+    width: 250px;
+    height: 30px;
+    display: inline-block;
+    background-image: url("../rasmlar/77.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin: 0 90px;
+    padding: 10px;
+}
+.navbar-item:hover{
+    background-color: #c8e9f0;
+}
+.navbar-item:hover a{
+    color: blue;
+}
+.drop-item2:after{
+    content: '';
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-image: url("../rasmlar/down-arrow.svg");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center center;
+    vertical-align: middle;
+    margin-left: 5px;
+    transform: rotate(270deg);
+}
+.drop-item3:before{
+    content: '';
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-image: url("../rasmlar/down-arrow.svg");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center center;
+    vertical-align: middle;
+    margin-left: 5px;
+    transform: rotate(90deg);
+}
+.navbar-item{
+    position: relative;
+
+}
+.drop-menu{
+    position: absolute;
+    top: 100%;
+    margin: 0;
+    padding: 0;
+    width: 120px;
+    background-color: #f1f1f1;
+    display: none;
+}
+.navbar-item:hover > .drop-menu{
+    display: block;
+}
+img{
+    width: 300px;
+    height: 50px;
+}
+.item3{
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    background-image: url("../rasmlar/90.png");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center center;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+.drop-item2 > .drop-menu{
+    left: 100%;
+    top: 0;
+}
+.drop-item2:hover > .drop-menu{
+    display: block;
+}

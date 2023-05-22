@@ -1,0 +1,40 @@
+.text-block{
+    width: 1200px;
+    background-color white;
+    margin: 50px auto;
+    padding: 25px;
+}
+.text-block-item{
+    width: 21%;
+    border: 4px solid black;
+    background-color: blanchedalmond;
+    text-align: center;
+    padding: 50px ;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+    border-radius: 20px;
+}
+.text-block-item-2{
+    width: 21%;
+    border: 4px solid black;
+    background-color: #f89595;
+    text-align: center;
+    padding: 50px ;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+    border-radius: 20px;
+}
+.clear{
+    clear: both;
+}
+h1{
+    text-align: center;
+    color: #e86666;
+}
+h2{
+    text-align: center;
+}

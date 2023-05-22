@@ -1,0 +1,22 @@
+.wrap{
+    margin: 50px auto;
+    padding: 20px 25px;
+}
+.btn{
+    width: 300px;
+    text-align: center;
+    padding: 15px ;
+    box-sizing: border-box;
+    float: left;
+    margin: 0 10px;
+    height: 350px;
+
+}
+
+img{
+    width: 160px;
+    height: 150px;
+}
+p{
+    color: #808080;
+}

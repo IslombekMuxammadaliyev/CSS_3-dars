@@ -1,0 +1,97 @@
+
+.fix:focus{
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+    background: white;
+    border: 3px solid yellow;
+    border-radius: 20px;
+    position: fixed;
+    right: 30px;
+    bottom: 200px;
+    line-height: 50px;
+    background-image: url("../rasmlar/83.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transform: rotate(0deg);
+}
+.fix{
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    text-align: center;
+    background: white;
+    border: 3px solid yellow;
+    border-radius: 50%;
+    position: fixed;
+    right: 30px;
+    bottom: 70px;
+    line-height: 50px;
+    background-image: url("../rasmlar/82.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    transform: rotate(0deg);
+}
+.fix-2 {
+    width: 90px;
+    height: 20px;
+    display: inline-block;
+    text-align: center;
+    background: yellow;
+    border: 3px solid yellow;
+    border-radius: 8px;
+    position: fixed;
+    right: 30px;
+    bottom: 40px;
+    line-height: -20px;
+    text-decoration: none;
+}
+.item1{
+    width: 200px;
+    height: 150px;
+    display: none;
+    background: yellow;
+    border: 3px solid yellow;
+    text-align: left;
+    border-radius: 20px;
+    padding: 5px 10px;
+    padding-top: 10px;
+    position: fixed;
+    top: 10px;
+    right: 20px;
+    line-height: 70px;
+
+}
+.item2{
+    width: 300px;
+    height: 30px;
+    display: none;
+    border: 1px solid yellow;
+    background: white;
+    text-align: left;
+    border-radius: 8px;
+    padding: 5px 10px;
+    padding-top: 10px;
+    position: fixed;
+    right: 30px;
+    bottom: 10px;
+    line-height: 50px;
+}
+.item2:after{
+    content: '';
+    width: 16px;
+    height: 15px;
+    display: none;
+    background-image: url("../rasmlar/down-arrow.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    vertical-align: middle;
+    margin-left: 130px;
+    transform: rotate(270deg);
+}
+.fix:hover item1{
+    display: block;
+}

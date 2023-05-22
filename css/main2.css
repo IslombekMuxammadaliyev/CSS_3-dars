@@ -1,0 +1,82 @@
+body{
+    background: black;
+    margin: 50px auto;
+}
+.warp{
+    margin: 12px auto;
+    padding: 50px;
+}
+.btn{
+    width: 200px;
+    border: 1px solid #ff4d00;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: #ff4d00;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-2 {
+    background-image: url("../rasmlar/5.jpg");
+    width: 200px;
+    border: 1px solid #ff4d00;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    padding: 25px 20px;
+    color: #ff4d00;
+    margin: 0 19px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-3{
+    width: 200px;
+    border: 1px solid #ff4d00;
+    border-radius: 8px;
+      background: deepskyblue;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-4{
+    width: 200px;
+    border: 1px solid greenyellow;
+    border-radius: 8px;
+      background: greenyellow;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-5{
+    width: 200px;
+    border: 1px solid #b501fc;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: #b501fc;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}.btn-6{
+    width: 200px;
+    border: 1px solid yellowgreen;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: yellowgreen;
+    margin: 0 19px;
+     padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}

@@ -1,0 +1,92 @@
+.body{
+    background-color: white;
+}
+.text-block{
+    width: 1200px;
+    background-color: white;
+    margin: 50px auto;
+    padding: 25px;
+}
+.text-block-1{
+    width: 21%;
+    border: 7px solid #d0c8c8;
+    text-align: center;
+    padding: 50px ;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.text-block-2{
+    width: 21%;
+    border: 7px dashed #d0c8c8;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.text-block-3{
+    width: 21%;
+    border: 7px dotted #b69e9e;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.text-block-4{
+    width: 21%;
+    border: 7px double #b69e9e;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.text-block-5{
+    width: 21%;
+    border: 12px inset #9a9595;
+    text-align: center;
+    padding: 50px ;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.text-block-6{
+    width: 21%;
+    border: 12px outset #9a9595;
+    text-align: center;
+    padding: 50px ;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.text-block-7{
+    width: 21%;
+    border: 12px groove #9a9595;
+    text-align: center;
+    padding: 50px ;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.text-block-8{
+    width: 21%;
+    border: 12px ridge #9a9595;
+    text-align: center;
+    padding: 50px ;
+    box-sizing: border-box;
+    float: left;
+    height: 200px;
+    margin: 0 20px;
+}
+.clear{
+    clear: both;
+}

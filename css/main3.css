@@ -1,0 +1,327 @@
+.warp{
+    width: 1200px;
+    margin: 50px auto;
+    padding: 5px;
+}
+.btn{
+    width: 15%;
+    border: 1px solid #4169e1;
+    background: #4169e1;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-2{
+    width: 15%;
+    border: 1px solid #228b22;
+    background: #228b22;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-3{
+     width: 15%;
+     border: 1px solid #00bfff;
+     background: deepskyblue ;
+     text-align: center;
+     text-decoration: none;
+     color: white;
+     margin: 0 19px;
+     padding: 25px 20px;
+     display: inline-block;
+     box-sizing: border-box;
+}
+.btn-4{
+      width: 15%;
+      border: 1px solid #ff4d00;
+      background: #ff4d00;
+      text-align: center;
+      text-decoration: none;
+      color: white;
+      margin: 0 19px;
+      padding: 25px 20px;
+      display: inline-block;
+      box-sizing: border-box;
+}
+.btn-5{
+       width: 15%;
+       border: 1px solid red;
+       background: red;
+       text-align: center;
+       text-decoration: none;
+       color: white;
+       margin: 0 19px;
+       padding: 25px 20px;
+       display: inline-block;
+       box-sizing: border-box;
+}
+.btn-6{
+    width: 15%;
+    border: 1px solid #4169e1;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: #4169e1;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-7{
+    width: 15%;
+    border: 1px solid #228b22;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: #228b22;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-8{
+     width: 15%;
+     border: 1px solid #00bfff;
+     border-radius: 8px;
+     text-align: center;
+     text-decoration: none;
+     color: #00bfff;
+     margin: 0 19px;
+     padding: 25px 20px;
+     display: inline-block;
+     box-sizing: border-box;
+}
+.btn-9{
+      width: 15%;
+      border: 1px solid #ff4d00;
+      border-radius: 8px;
+      text-align: center;
+      text-decoration: none;
+      color: #ff4d00;
+      margin: 0 19px;
+      padding: 25px 20px;
+      display: inline-block;
+      box-sizing: border-box;
+}
+.btn-10{
+       width: 15%;
+       border: 1px solid red;
+       border-radius: 8px;
+       text-align: center;
+       text-decoration: none;
+       color: red;
+       margin: 0 19px;
+       padding: 25px 20px;
+       display: inline-block;
+       box-sizing: border-box;
+}
+.btn-11{
+    width: 15%;
+    border: 1px solid #4169e1;
+    background: #4169e1;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-12{
+    width: 15%;
+    border: 1px solid #228b22;
+    background: #228b22;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-13{
+     width: 15%;
+     border: 1px solid #00bfff;
+     background: deepskyblue ;
+     border-radius: 8px;
+     text-align: center;
+     text-decoration: none;
+     color: white;
+     margin: 0 19px;
+     padding: 25px 20px;
+     display: inline-block;
+     box-sizing: border-box;
+}
+.btn-14{
+      width: 15%;
+      border: 1px solid #ff4d00;
+      background: #ff4d00;
+      border-radius: 8px;
+      text-align: center;
+      text-decoration: none;
+      color: white;
+      margin: 0 19px;
+      padding: 25px 20px;
+      display: inline-block;
+      box-sizing: border-box;
+}
+.btn-15{
+       width: 15%;
+       border: 1px solid red;
+       background: red;
+       border-radius: 8px;
+       text-align: center;
+       text-decoration: none;
+       color: white;
+       margin: 0 19px;
+       padding: 25px 20px;
+       display: inline-block;
+       box-sizing: border-box;
+}
+.btn-16 {
+    width: 15%;
+    border: 1px solid #4169e1;
+    background: #4169e1;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-17{
+    width: 15%;
+    border: 1px solid #228b22;
+    background: #228b22;
+    border-radius: 25px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+}
+.btn-18{
+     width: 15%;
+     border: 1px solid #00bfff;
+     background: deepskyblue ;
+    border-radius: 25px;
+     text-align: center;
+     text-decoration: none;
+     color: white;
+     margin: 0 19px;
+     padding: 25px 20px;
+     display: inline-block;
+     box-sizing: border-box;
+}
+.btn-19{
+      width: 15%;
+      border: 1px solid #ff4d00;
+      background: #ff4d00;
+    border-radius: 25px;
+      text-align: center;
+      text-decoration: none;
+      color: white;
+      margin: 0 19px;
+      padding: 25px 20px;
+      display: inline-block;
+      box-sizing: border-box;
+}
+.btn-20{
+       width: 15%;
+       border: 1px solid red;
+       background: red;
+    border-radius: 25px;
+       text-align: center;
+       text-decoration: none;
+       color: white;
+       margin: 0 19px;
+       padding: 25px 20px;
+       display: inline-block;
+       box-sizing: border-box;
+}
+.btn-21{
+    width: 15%;
+    border: 1px solid #4169e1;
+    background: #4169e1;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+     border-bottom: 3px solid black;
+}
+.btn-22{
+    width: 15%;
+    border: 1px solid #228b22;
+    background: #228b22;
+    border-radius: 8px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    margin: 0 19px;
+    padding: 25px 20px;
+    display: inline-block;
+    box-sizing: border-box;
+     border-bottom: 3px solid black;
+}
+.btn-23{
+     width: 15%;
+     border: 1px solid #00bfff;
+     background: deepskyblue ;
+     border-radius: 8px;
+     text-align: center;
+     text-decoration: none;
+     color: white;
+     margin: 0 19px;
+     padding: 25px 20px;
+     display: inline-block;
+     box-sizing: border-box;
+     border-bottom: 3px solid black;
+}
+.btn-24{
+      width: 15%;
+      border: 1px solid #ff4d00;
+      background: #ff4d00;
+      border-radius: 8px;
+      text-align: center;
+      text-decoration: none;
+      color: white;
+      margin: 0 19px;
+      padding: 25px 20px;
+      display: inline-block;
+      box-sizing: border-box;
+     border-bottom: 3px solid black;
+}
+.btn-25{
+       width: 15%;
+       border: 1px solid red;
+       background: red;
+       border-radius: 8px;
+       text-align: center;
+       text-decoration: none;
+       color: white;
+       margin: 0 19px;
+       padding: 25px 20px;
+       display: inline-block;
+       box-sizing: border-box;
+     border-bottom: 3px solid black;
+}
+
+
